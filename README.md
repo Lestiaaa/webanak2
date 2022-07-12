@@ -2,8 +2,8 @@
 
 This beautiful theme from the [Matter Design Team](https://matterdesign.com.au/) gives you the styling and scaffolding for your next e-commerce site. You can customize to your heart's content and add the tooling for cart, transactions, product, and more. This theme uses:
 
-- [Gatsby](https://www.gatsbyjs.com/)
-- [CSS Modules](https://github.com/css-modules/css-modules)
+- [Lestechtia](https://www.lestechtia.com/)
+- [Retroline Corner](https://www.retrolinecorner.com)
 - [Prettier](https://prettier.io/)
 - [React Helmet](https://github.com/nfl/react-helmet)
 
